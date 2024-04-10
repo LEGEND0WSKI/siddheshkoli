@@ -1,0 +1,8 @@
+#Install node.js
+#cd /c/Users/name/AppData/Roaming
+#mkdir npm
+
+In console
+npx creatye-react-app [NAME]
+cd [NAME]
+npm start
